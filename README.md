@@ -1,2 +1,3 @@
-# Proj_ML1C1
-Yelp Recommender
+# Yelp Recommendation Model - Univ.ai Project ML1
+
+!(poster.png)[]
